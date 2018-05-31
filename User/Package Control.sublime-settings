@@ -1,0 +1,47 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"1Self",
+		"Alignment",
+		"All Autocomplete",
+		"ApacheConf",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorSchemeEditor",
+		"CTags",
+		"DocBlockr",
+		"Emmet",
+		"Filter Lines",
+		"Git Conflict Resolver",
+		"GitGutter",
+		"Glue",
+		"Gradle_Language",
+		"HTML Nest Comments",
+		"JSHint",
+		"Monokai Extended",
+		"Monokai Neue",
+		"Monokai Rich",
+		"Package Control",
+		"PackageResourceViewer",
+		"PHP Companion",
+		"PhpDoc",
+		"Pretty JSON",
+		"Sass",
+		"SASS Build",
+		"SFTP",
+		"SideBarEnhancements",
+		"Simple FTP Deploy",
+		"SublimeLinter-annotations",
+		"TerminalView",
+		"Theme - Monokai",
+		"Trimmer",
+		"WakaTime",
+		"Xdebug Client"
+	]
+}

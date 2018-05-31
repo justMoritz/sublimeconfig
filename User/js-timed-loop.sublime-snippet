@@ -1,0 +1,20 @@
+<snippet>
+  <content><![CDATA[
+var selector = ${1:your-selector}
+var i = 0;
+function ${2:timedLoop} () { 
+  setTimeout(function () {
+    ${3:console.log('your magic here')}
+    i++;
+    if (i < selector.length) {
+      ${2:timedLoop}();
+    }
+  }, ${4:100});
+}
+${2:timedLoop}(); 
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>JS Timed Loop</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

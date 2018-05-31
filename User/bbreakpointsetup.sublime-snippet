@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+\$breakpoint-${1:${TM_FILENAME/_(.*)\..*/\1/g}}-${2:tablet}-width: ${3:768px};
+@mixin breakpoint-$1-$2(\$operator: '>=') {
+  @include media("#{\$operator}#{\$breakpoint-$1-$2-width}") {
+    @content;
+  }
+}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>bbreakpointsetup</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
+
+
