@@ -4,7 +4,7 @@
 		"single_line": false
 	},
 	"auto_close_tags": false,
-	"color_scheme": "Packages/User/Color Highlighter/themes/morokai.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
 	"command": "reindent",
 	"font_face": "Consolas",
 	"font_size": 12,
@@ -22,6 +22,8 @@
 	],
 	"shift_tab_unindent": true,
 	"tab_size": 2,
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?$"
 }
