@@ -6,8 +6,7 @@ a{
   }
   &:hover,
   &:active,
-  &:focus,
-  &:focus-within{
+  &:focus{
     ${2:stateChanged}
   }
 }

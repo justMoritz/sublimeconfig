@@ -1,11 +1,2 @@
-[07/13/2018 08:27:37AM] INFO - ==== Loading "Xdebug Client.sublime-package" package ====
-[07/17/2018 08:37:44AM] DEBUG - Successfuly imported extension module "mdpopups.mdx.highlight".
-[07/17/2018 08:37:44AM] DEBUG - Successfuly imported extension module "mdpopups.mdx.inlinehilite".
-[07/17/2018 08:37:44AM] DEBUG - Successfuly imported extension module "mdpopups.mdx.superfences".
-[07/17/2018 08:37:44AM] DEBUG - Successfuly imported extension module "markdown.extensions.admonition".
-[07/17/2018 08:37:44AM] DEBUG - Successfuly imported extension module "markdown.extensions.attr_list".
-[07/17/2018 08:37:44AM] DEBUG - Successfuly imported extension module "markdown.extensions.def_list".
-[07/17/2018 08:37:45AM] DEBUG - Successfuly imported extension module "pymdownx.betterem".
-[07/17/2018 08:37:45AM] DEBUG - Successfuly imported extension module "pymdownx.magiclink".
-[07/17/2018 08:37:45AM] DEBUG - Successfuly imported extension module "pymdownx.extrarawhtml".
-[07/17/2018 08:37:45AM] DEBUG - Successfuly imported extension module "markdown.extensions.nl2br".
+[03/19/2019 02:51:25PM] INFO - ==== Loading "Xdebug Client.sublime-package" package ====
+[03/25/2019 08:53:28AM] DEBUG - Orgmode settings path: /Users/mmcmoritz/Library/Application Support/Sublime Text 3/Packages/Settings/orgmode-store.bin.gz
